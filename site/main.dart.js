@@ -28983,7 +28983,7 @@ throw A.f(A.c9("Invalid "+a+' "'+b+'": '+J.aQH(r),J.aGz(r),J.aQI(r)))}else throw
 j7(){var s,r=$.aGQ,q=r==null?null:B.c.bu(r)
 if(q==null)q=""
 if(q.length!==0)return A.aCN(q)
-r=B.c.bu("https://your_tunnel_url/api")
+r=B.c.bu("https://liabilities-plate-internationally-tunes.trycloudflare.com/api")
 if(r.length!==0)return A.aCN(r)
 s=A.e9()
 if(A.a3O(s))return s.gwR(s)+"/api"
@@ -28991,7 +28991,7 @@ return"http://127.0.0.1:8787/api"},
 z9(){var s,r,q=$.aGR,p=q==null?null:B.c.bu(q)
 if(p==null)p=""
 if(p.length!==0)return p
-q=B.c.bu("https://your_pages_subdomain/")
+q=B.c.bu("https://hyperdrop-qv5.pages.dev/")
 if(q.length!==0)return q
 s=A.e9()
 if(A.a3O(s)){q=t.N
