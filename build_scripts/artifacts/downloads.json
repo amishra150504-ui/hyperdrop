@@ -1,0 +1,9 @@
+﻿{
+   landing_url: https://hyperdrop.com/,
+  api_base: https://api.hyperdrop.com/api,
+  android_url: https://hyperdrop.com/downloads/android.apk,
+  ios_url: https://hyperdrop.com/downloads/ios,
+  windows_url: https://hyperdrop.com/downloads/windows.zip,
+  web_zip: https://hyperdrop.com/downloads/hyperdrop-web-public.zip,
+  version: 0.1.0
+}
